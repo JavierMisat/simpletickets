@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66777ce-a481-4985-9e31-8256917e118a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="model_backup_21-09-16.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/js-support-ticket/modules/ticket/model_backup_21-09-16.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/js-support-ticket/modules/ticket/model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="2137" column="0" lean-forward="false" selection-start-line="2137" selection-start-column="0" selection-end-line="2137" selection-end-column="0" />
+              <folding>
+                <marker date="1490719181000" expanded="true" signature="9509:10210" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="10570:10713" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+                <marker date="1490719181000" expanded="true" signature="22384:22833" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="23057:23569" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="27977:28597" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="28451:28587" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="28797:29700" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="29553:29689" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="30160:30819" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="30650:30786" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="30947:31605" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="31437:31573" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="31737:32395" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="32227:32363" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="32525:33186" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="33015:33151" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="33311:33947" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="33801:33937" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="34228:34912" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="36346:37504" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="37640:37782" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+                <marker date="1490719181000" expanded="true" signature="41368:41459" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="41567:41680" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="41874:41999" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="42094:42223" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="42365:42487" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+                <marker date="1490719181000" expanded="true" signature="43692:43783" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="43849:43965" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="44424:44543" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="44585:44717" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="47720:47828" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="51700:51787" ph="SELECT param... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="55902:55984" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="61501:61626" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="61924:62010" ph="DELETE FROM " />
+                <marker date="1490719181000" expanded="true" signature="62184:62482" ph="SELECT ( (SE... " />
+                <marker date="1490719181000" expanded="true" signature="62214:62310" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_replies" />
+                <marker date="1490719181000" expanded="true" signature="62345:62439" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_notes" />
+                <marker date="1490719181000" expanded="true" signature="62893:62981" ph="SELECT subje... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="63331:63420" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="63773:63859" ph="SELECT email... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="64214:64302" ph="SELECT staff... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="68139:68221" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="70432:70514" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="72320:72402" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="76537:76850" ph="SELECT al.id... ${jssupportticket::$_db-&gt;prefix}js_ticket_activity_log" />
+                <marker date="1490719181000" expanded="true" signature="79100:79182" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="81614:81696" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="86541:86623" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="88993:89075" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="93101:93216" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+                <marker date="1490719181000" expanded="true" signature="94201:94307" ph="DELETE FROM " />
+                <marker date="1490719181000" expanded="true" signature="95697:95779" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="98331:98413" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="100753:100843" ph="SELECT attac... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="101432:101578" ph="SELECT id FR... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="102259:102663" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="102854:103073" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="103360:103438" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="103650:103734" ph="SELECT uid F... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="104460:104606" ph="SELECT id FR... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="105011:105130" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="105313:105432" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="105603:105719" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="105887:106003" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="106117:106241" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+                <marker date="1490719181000" expanded="true" signature="107081:107771" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="107865:108838" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="108612:108748" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+                <marker date="1490719181000" expanded="true" signature="109444:109832" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="110097:110318" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="110405:110605" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="110696:110879" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="110969:111215" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+                <marker date="1490719181000" expanded="true" signature="115235:115342" ph="SELECT max(c... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conse</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simplecomunicaciones" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simplecomunicaciones" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simplecomunicaciones" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Simplecomunicaciones" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66777ce-a481-4985-9e31-8256917e118a" name="Default" comment="" />
+      <created>1532725769281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532725769281</updated>
+      <workItem from="1532725771672" duration="1568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1568000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JWT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Migrations" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="RNConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JSON Utils" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\javie\Documents\Proyectos php\Simplecomunicaciones</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/js-support-ticket/modules/ticket/model_backup_21-09-16.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/js-support-ticket/modules/ticket/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="2137" column="0" lean-forward="false" selection-start-line="2137" selection-start-column="0" selection-end-line="2137" selection-end-column="0" />
+          <folding>
+            <marker date="1490719181000" expanded="true" signature="9509:10210" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="10570:10713" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+            <marker date="1490719181000" expanded="true" signature="22384:22833" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="23057:23569" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="27977:28597" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="28451:28587" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="28797:29700" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="29553:29689" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="30160:30819" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="30650:30786" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="30947:31605" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="31437:31573" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="31737:32395" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="32227:32363" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="32525:33186" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="33015:33151" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="33311:33947" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="33801:33937" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="34228:34912" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="36346:37504" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="37640:37782" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+            <marker date="1490719181000" expanded="true" signature="41368:41459" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="41567:41680" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="41874:41999" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="42094:42223" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="42365:42487" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+            <marker date="1490719181000" expanded="true" signature="43692:43783" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="43849:43965" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="44424:44543" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="44585:44717" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="47720:47828" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="51700:51787" ph="SELECT param... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="55902:55984" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="61501:61626" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="61924:62010" ph="DELETE FROM " />
+            <marker date="1490719181000" expanded="true" signature="62184:62482" ph="SELECT ( (SE... " />
+            <marker date="1490719181000" expanded="true" signature="62214:62310" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_replies" />
+            <marker date="1490719181000" expanded="true" signature="62345:62439" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_notes" />
+            <marker date="1490719181000" expanded="true" signature="62893:62981" ph="SELECT subje... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="63331:63420" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="63773:63859" ph="SELECT email... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="64214:64302" ph="SELECT staff... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="68139:68221" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="70432:70514" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="72320:72402" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="76537:76850" ph="SELECT al.id... ${jssupportticket::$_db-&gt;prefix}js_ticket_activity_log" />
+            <marker date="1490719181000" expanded="true" signature="79100:79182" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="81614:81696" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="86541:86623" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="88993:89075" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="93101:93216" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+            <marker date="1490719181000" expanded="true" signature="94201:94307" ph="DELETE FROM " />
+            <marker date="1490719181000" expanded="true" signature="95697:95779" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="98331:98413" ph="SELECT * FRO... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="100753:100843" ph="SELECT attac... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="101432:101578" ph="SELECT id FR... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="102259:102663" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="102854:103073" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="103360:103438" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="103650:103734" ph="SELECT uid F... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="104460:104606" ph="SELECT id FR... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="105011:105130" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="105313:105432" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="105603:105719" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="105887:106003" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="106117:106241" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_email_banlist" />
+            <marker date="1490719181000" expanded="true" signature="107081:107771" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="107865:108838" ph="SELECT DISTI... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="108612:108748" ph="SELECT dept.... ${jssupportticket::$_db-&gt;prefix}js_ticket_acl_user_access_departments" />
+            <marker date="1490719181000" expanded="true" signature="109444:109832" ph="SELECT ticke... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="110097:110318" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="110405:110605" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="110696:110879" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="110969:111215" ph="SELECT COUNT... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+            <marker date="1490719181000" expanded="true" signature="115235:115342" ph="SELECT max(c... ${jssupportticket::$_db-&gt;prefix}js_ticket_tickets" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

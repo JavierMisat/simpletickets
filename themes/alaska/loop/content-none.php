@@ -1,0 +1,1 @@
+<p><?php echo __('Sorry, no posts matched your criteria.','alaska'); ?></p>

@@ -1,0 +1,95 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">quantity</custom-field>
+        <custom-field action="translate">themestudio_portfolio_metabox</custom-field>
+        <custom-field action="translate">themestudio_portfolio_type</custom-field>
+        <custom-field action="translate">custom-title</custom-field>
+        <custom-field action="copy">weight</custom-field>
+        <custom-field action="translate">custom-description</custom-field>
+        <custom-field action="ignore">date-added</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">megamenu</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">genre</taxonomy>
+        <taxonomy translate="1">type</taxonomy>
+        <taxonomy translate="0">publisher</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="alaska">
+            <key name="general_introduction" />
+            <key name="info_title" />
+            <key name="info_bar_description" />
+            <key name="info_title_touch" />
+            <key name="info_email" />
+            <key name="info_phone" />
+            <key name="info_address" />
+            <key name="info_title_map" />
+            <key name="info_map" />
+            <key name="sidebars" />
+            <key name="ts-header-social-list">
+                <key name="title" />
+                <key name="description" />
+                <key name="url" />
+            </key>
+            <key name="ts-top-right-content" />
+            <key name="ts-whmcs-register-url" />
+            <key name="ts-blog-title" />
+            <key name="ts-blog-sub-title" />
+            <key name="ts-blog-reading-text" />
+            <key name="ts-blog-content">
+                <key name="content" />
+                <key name="excerpt" />
+            </key>
+            <key name="portfolio_title" />
+            <key name="portfolio_sub_title" />
+            <key name="ts-before-footer-email" />
+            <key name="ts-before-footer-phone" />
+            <key name="ts-before-footer-livechat" />
+            <key name="footer_copyright_text" />
+            <key name="ts-footer-menu" />
+
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>    
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>    
+</wpml-config>
+
+

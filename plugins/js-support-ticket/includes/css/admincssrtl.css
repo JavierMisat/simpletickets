@@ -1,0 +1,107 @@
+div.js-ticket-wrapper:hover{border:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-pic{border-right:0px;border-left:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-data1{border-left:0px;border-right:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-bottom-line{background:#428BCA;}
+div.js-ticket-wrapper div.js-ticket-pic{float:right;border:0px;border-left:1px solid #dddddd;}
+div.js-ticket-wrapper div.js-ticket-data{float:right;}
+div.js-ticket-wrapper div.js-ticket-data1{float:right;border:0px;border-right:1px solid #dddddd;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status{right:auto;left:5px;}
+div.js-ticket-wrapper div.js-ticket-data1 div.js-row div.js-col-xs-6.js-col-md-6{float:right;}
+div.js-ticket-bottom-data-part span.js-ticket-created{float:right;}
+div.js-ticket-datapart-buttons-action{float:left;}
+div.js-ticket-datapart-buttons-detail{float:left;}
+div.js-ticket-wrapper div.js-ticket-bottom-data-part a.button img{margin-right:0px;margin-left:5px;}
+div.js-ticket-wrapper div.js-ticket-bottom-data-part a.button{float:left;}
+div.js-box-wrapper div.js-box{width:100%;margin-right: 0px;}
+div.js-box-wrapper div.js-box div.img-wrapper{float:right;}
+div.js-box-wrapper div.js-box div.text-wrapper{float:right;text-align: right;margin-left: 0px;margin-right: 10px;}
+div.js-form-wrapper div.js-form-title{float:right;text-align:left;margin-right:0px;margin-left: 5%;}
+div.js-admin-sorting span.js-admin-sorting-link{float:right;}
+div.js-col-md-2.js-myticket-link{float:right;}
+div.js-col-md-2.js-myticket-link.js-col-md-offset-1{float:right;margin-right: 8.33333333%;margin-left: 0px;}
+div.js-ticket-detail-wrapper div.js-ticket-topbar div.js-openclosed{float:right;border:0px;border-left:1px solid #DDDDDD;}
+div.js-row.js-ticket-topbar div.js-col-md-4{float:right;}
+div.js-row.js-ticket-topbar div.js-col-md-3.js-last-left{float:right;border-left: 0px;border-right:1px solid #DDDDDD;}
+div.js-col-xs-6.js-col-md-6.js-ticket-title{float:right;}
+div.js-col-xs-6.js-col-md-5.js-ticket-value{float:right;}
+div.js-row.js-ticket-middlebar div.js-col-xs-12.js-col-md-9.js-admin-xs-nullpadding{float:right;}
+div.js-row.js-ticket-middlebar div.js-col-xs-12.js-col-md-3.js-button-margin{float:left;}
+div.js-row.js-ticket-bottombar div.js-col-md-5{float:right;}
+div.js-ticket-detail-wrapper div.js-ticket-moredetail{float:right;}
+div.js-ticket-detail-wrapper div.js-ticket-moredetail div.js-col-md-6.js-ticket-data-title{float:right;}
+div.js-col-md-2.js-col-xs-3.js-ticket-thread-pic{float:right;}
+div.js-ticket-thread-wrapper div.js-ticket-detail-corner{left:auto;right:-21px;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+div.js-ticket-thread-wrapper div.js_ticketattachment{float:right;}
+.tabs ul li{float:right;}
+div#records div.js-popup-row-wrapper span{float:right;border-right:0px;border-left:1px solid #dddddd;}
+div#records div.js-popup-row-wrapper span:last-child{border-left:0px;}
+form#userpopupsearch div.search-center-history span.close-history{right:auto;left:9px;}
+div.js_job_error_messages_wrapper div.js_job_messages_image_wrapper{float:right;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper{float:right;}
+div.js-ticket-configuration-title{float:right;text-align:left;padding-right:0px;padding-left:10px;}
+div.js-col-xs-12.js-col-md-4.js-ticket-configuration-value{float: right;}
+div.js-col-xs-12.js-col-md-3.js-ticket-configuration-value{float:right;}
+form#userpopupsearch div.search-center span.close{right:auto;left:10px;}
+div.js-col-md-12.js-col-md-offset-2.js-admin-ticketviaemail-wrapper-checksetting{margin-left:0px;margin-right:16.66666667%;}
+a#js-admin-ticketviaemail{float:right;}
+span.crown_text_left{float:right;text-align:left;}
+span.crown_text_right{float:left;text-align:right;}
+div#cron_job span{float:right !important;}
+div.js-filter-form-head div{float:right;border-right:0px;border-left:1px solid #FCFCFC;padding:5px 5px 4px 0px}
+div.js-filter-form-data div{float:right;border-right:0px;border-left:1px solid #BDBDBD;padding:5px 5px 4px 0px}
+a.js-add-link.button img{margin-right:0px;margin-left:5px;}
+div.js-col-xs-12.js-col-md-5.js-ticket-configuration-value{float:right;}
+div.js-ticket-admin-prirrity-color{width:100%;}
+table#js-support-ticket-table tr th.left{text-align:right;}
+table#js-support-ticket-table tr td.left{text-align: right;}
+div.js_theme_section{float:right;}
+div.js_effect_preview{float:right;padding-left:0px;padding-right:30px;}
+div#theme_heading div.left_side{float:right;border-right:0px;border-left:1px solid #ffffff;}
+div#theme_heading div.right_side{float:left;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper div.color{float:right !important;width:14% !important;}
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper span.theme_name,
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper a.preview,
+div#js_job_wrapper div.js_theme_wrapper div.theme_platte div.color_wrapper a.set_theme{float:right !important;}
+div.js-admin-info-wrapper span.js-admin-info-title{float:right;margin-right:0px;margin-left:1%;}
+div.js-admin-info-wrapper span.js-admin-info-vlaue{padding-left:0px;padding-right:10px;}
+div.js-admin-joomsky-wrapper div.js-col-md-8{float:right;}
+div.js-admin-joomsky-wrapper div.js-col-md-4{float:right;}
+div#jsst-upper-wrapper span.jsst-logo{right:auto;left:80px;}
+div#jsst-middle-wrapper div.js-col-md-4{float:right;}
+div#jsst-middle-wrapper div.js-col-md-4:first-child{margin-left:0px;margin-right: 1%;}
+div#jsst-middle-wrapper span.jsst-number{float:left;-moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;-ms-filter: "FlipH";}
+div#jsst-lower-wrapper div#jsst-table-head div:first-child{float:right;text-align:right;border-right:0px;}
+div#jsst-lower-wrapper div#jsst-table-head div{float:right;}
+div#jsst-lower-wrapper div#jsst-table-head div:last-child{border-left:0px;border-right:1px solid #CECECE;}
+div#jsst-lower-wrapper div#jsst-table-data div:first-child{float:right;text-align:right;border-right:0px;}
+div#jsst-lower-wrapper div#jsst-table-data div{float:right;}
+div#jsst-lower-wrapper div#jsst-table-data div:last-child{border-left:0px;border-right:1px solid #CECECE;}
+a.js-admin-report-wrapper{float:right;}
+a.js-admin-report-wrapper div.js-admin-overall-report-type-wrapper{background:url(../images/report/overall.png) 2% center no-repeat #EAF1DD;}
+a.js-admin-report-wrapper div.js-admin-staff-report-type-wrapper{background:url(../images/report/staffbox.png) 2% center no-repeat #EAF1DD;}
+a.js-admin-report-wrapper div.js-admin-user-report-type-wrapper{background:url(../images/report/userbox.png) 2% center no-repeat #EAF1DD;}
+div.js-email-menu{float:right;text-align:right;}
+div.js-email-body{float:right;}
+form#userpopupsearch div.search-center-heading{padding:10px 10px 10px 0px}
+div.js-admin-staff-wrapper .nopadding{float:right;}
+div.js-admin-staff-wrapper div.js-report-staff-image-wrapper{float:right;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box1{margin-left: 0px;}
+div.js-ticket-admin-cp-data div{padding-right: 15px;}
+/*newcss*/
+div#js-total-count-cp .js-total-count .img{float: right;}
+div#js-total-count-cp .js-total-count .data{float: right; padding-left: 0px; padding-right: 10px;}
+div#js-main-head-cp .js-cptext{float: right;}
+div#js-main-head-cp .js-cpmenu{float: left;}
+div#js-main-head-cp span.dashboard-icon span img{float: right;}
+div#js-main-head-cp span.dashboard-icon {left: 5px;}
+
+div#js-wrapper-menus a.js-admin-menu-link{float: right;}
+span.js-adminhead-title a.jsanchor-backlink{float: right; margin-right: 0px; margin-left: 10px;}
+span.js-adminhead-title a.js-add-link.button{float: left;}
+span.js-adminhead-title a.jsanchor-backlink img{-webkit-transform: rotateY(150deg); /* Safari */transform: rotateY(150deg); /* Standard syntax */}
+
+div#jsreview-banner div.review div.upper div.imgs img.reviewpic2{left:-15px; -webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg);}
+div#jsreview-banner div.review div.upper div.imgs img.reviewpic{left: auto; right:20px;}
+div#jsreview-banner div.review div.right{right:auto;}
+div#jsreview-banner div.review div.right{-webkit-transform: rotateY(150deg); /* Safari */transform: rotateY(150deg); /* Standard syntax */ left: 0px;}
+div#jsreview-banner div.review div.text{padding-right: 15px;}

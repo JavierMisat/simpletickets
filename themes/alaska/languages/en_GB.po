@@ -1,0 +1,4607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ALASKA\n"
+"POT-Creation-Date: 2015-01-06 22:35+0700\n"
+"PO-Revision-Date: 2015-01-06 22:35+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Sorry, Page not found !"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: archive.php:16
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: comments.php:21
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:25
+msgid "Submit"
+msgstr ""
+
+#: comments.php:32
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "(0)"
+msgstr ""
+
+#: comments.php:32
+msgid "(1)"
+msgstr ""
+
+#: comments.php:32
+msgid "(%)"
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a reply"
+msgstr ""
+
+#: content-parts/blog-metas.php:13 content-parts/single-metas.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: content-parts/blog-metas.php:13 content-parts/single-metas.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: content-parts/blog-metas.php:13 content-parts/single-metas.php:26
+msgid "% Comments"
+msgstr ""
+
+#: content-parts/blog-social.php:2
+msgid "Share this"
+msgstr ""
+
+#: content-parts/ourblog-metas.php:13 content-parts/single-metas.php:4
+msgid "By"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_field.php:449
+msgid "Add Group"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_field.php:450
+msgid "Remove Group"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:249
+msgid "Add Row"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:305
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:705
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:765
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:321
+#: core/admin/reduxframework/ReduxCore/inc/fields/media/field_media.php:166
+#: core/admin/reduxframework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: core/admin/reduxframework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: core/admin/reduxframework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:600
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:634
+msgid "No terms"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:673
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:727
+msgid "Add or Upload File"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:694
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:757
+msgid "Remove Image"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:705
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:765
+msgid "File:"
+msgstr ""
+
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:705
+#: core/admin/metaboxes/helpers/cmb_Meta_Box_types.php:765
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: core/admin/metaboxes/init.php:251
+msgid "Clear"
+msgstr ""
+
+#: core/admin/metaboxes/init.php:252
+#: core/admin/reduxframework/ReduxCore/framework.php:2101
+msgid "Default"
+msgstr ""
+
+#: core/admin/metaboxes/init.php:253
+msgid "Select Color"
+msgstr ""
+
+#: core/admin/metaboxes/init.php:254
+msgid "Current Color"
+msgstr ""
+
+#: core/admin/metaboxes/init.php:1155
+msgid "Save"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:483
+#: core/admin/reduxframework/ReduxCore/framework.php:1799
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:484
+#: core/admin/reduxframework/ReduxCore/framework.php:1807
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:485
+#: core/admin/reduxframework/ReduxCore/framework.php:1823
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:518
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:519
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/extensions/customizer/extension_customizer.php:520
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:171
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:171
+msgid "Redux Framework"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:175
+#: core/admin/reduxframework/ReduxCore/framework.php:179
+msgid "Options"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:1255
+#: core/admin/reduxframework/ReduxCore/framework.php:1256
+#: core/admin/reduxframework/ReduxCore/framework.php:3400
+#: core/admin/reduxframework/ReduxCore/framework.php:3479
+msgid "System Info"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:1815
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:1830
+msgid "Please Wait"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:1976
+msgid "Hints"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:1977
+msgid "<p>"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3151
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3198
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3226
+msgid "Expand"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3228
+#: core/admin/reduxframework/ReduxCore/framework.php:3536
+msgid "Save Changes"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3232
+#: core/admin/reduxframework/ReduxCore/framework.php:3540
+msgid "Reset Section"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3234
+#: core/admin/reduxframework/ReduxCore/framework.php:3542
+msgid "Reset All"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3239
+#: core/admin/reduxframework/ReduxCore/framework.php:3547
+msgid "Working..."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3259
+msgid "Settings Imported!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3274
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3288
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3302
+msgid "Settings Saved!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3320
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3328
+msgid "error(s) were found!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/framework.php:3336
+msgid "warning(s) were found!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/debug.php:41
+#: core/admin/reduxframework/ReduxCore/inc/debug.php:69
+#: core/admin/reduxframework/ReduxCore/inc/debug.php:76
+#: core/admin/reduxframework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:124
+#: core/admin/reduxframework/ReduxCore/inc/fields/color/field_color.php:72
+#: core/admin/reduxframework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: core/admin/reduxframework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: core/admin/reduxframework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:277
+#: core/admin/reduxframework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/background/field_background.php:314
+#: core/admin/reduxframework/ReduxCore/inc/fields/media/field_media.php:159
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:114
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:127
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:134
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:451
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1135
+msgid "Right"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:141
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:148
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:450
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1134
+msgid "Left"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:465
+msgid "Height"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: core/admin/reduxframework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: core/admin/reduxframework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1693
+msgid "Units"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:784
+msgid "Active"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/select/field_select.php:82
+#: core/admin/reduxframework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/select/field_select.php:126
+#: core/admin/reduxframework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:439
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:501
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:551
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1086
+msgid "Title"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:345
+msgid "Font subsets"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:347
+msgid "Font Subsets"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:348
+msgid "Subsets"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:348
+msgid "Font script"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:366
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Align"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:389
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Text Transform"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:411
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:412
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:413
+msgid "Font Variant"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:431
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Text Decoration"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:455
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:456
+msgid "Font Size"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:456
+msgid "Size"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:464
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:465
+msgid "Line Height"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:473
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Word Spacing"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:482
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:483
+msgid "Letter Spacing"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:501
+msgid "Font Color"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:503
+msgid "Font color"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:861
+msgid "Standard Fonts"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/fields/typography/field_typography.php:968
+msgid "Google Webfonts"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:140
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:149
+#: core/admin/reduxframework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:153
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:125
+msgid "Getting Started"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/color/validation_color.php:15
+#: core/admin/reduxframework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: core/admin/reduxframework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/email/validation_email.php:16
+#: core/admin/reduxframework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: core/admin/reduxframework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:45
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:259
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:50
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:55
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:122
+msgid "What's New"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:128
+msgid "Changelog"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:131
+msgid "Credits"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:148
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:291
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:410
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:149
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:150
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:261
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:293
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:412
+#: core/theme_options.php:190
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:155
+msgid "Some Feature"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:159
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:162
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:174
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:177
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:180
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:185
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:196
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:199
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:204
+msgid "Feature"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:169
+msgid "Some feature"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:192
+msgid "More Features"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:197
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:200
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:205
+msgid "description"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:211
+msgid "Additional Updates"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:215
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:218
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:223
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:226
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:231
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:234
+msgid "Cool thing"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:216
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:219
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:224
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:227
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:232
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:235
+msgid "cool thing description."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:241
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:274
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:242
+msgid "View the Full Changelog"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:260
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:292
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:411
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:266
+msgid "Full Changelog"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:297
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:300
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:306
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:307
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:309
+msgid "Product Price"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:310
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:312
+msgid "Download Files"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:313
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:319
+msgid "Display a Product Grid"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:325
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:326
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:328
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:329
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:332
+msgid "Additional Display Options"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:333
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:338
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:344
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:345
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:347
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:348
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:354
+msgid "Need Help?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:358
+msgid "Phenomenal Support"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:359
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:361
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:362
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:368
+msgid "Stay Up to Date"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:372
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:373
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:375
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:376
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:382
+msgid "Extensions for Everything"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:386
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:387
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:389
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:390
+msgid ""
+"<a href=\"https://easydigitaldownloads.com/extensions\" target=\"_blank"
+"\">The Extensions store</a> has a list of all available extensions, "
+"including convenient category filters so you can find exactly what you are "
+"looking for."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:416
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:436
+msgid "No valid changlog was found."
+msgstr ""
+
+#: core/admin/reduxframework/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:161 core/plugins_load.php:124
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:162 core/plugins_load.php:125
+msgid "Install Plugins"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:163 core/plugins_load.php:126
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:165 core/plugins_load.php:128
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:166 core/plugins_load.php:129
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:167 core/plugins_load.php:130
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:168 core/plugins_load.php:131
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:169 core/plugins_load.php:132
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:170 core/plugins_load.php:133
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:171 core/plugins_load.php:134
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:172 core/plugins_load.php:135
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:173 core/plugins_load.php:136
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:174 core/plugins_load.php:137
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:175 core/plugins_load.php:138
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:177
+#: core/apis/class-tgm-plugin-activation.php:1945 core/plugins_load.php:139
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:178
+#: core/apis/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/apis/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:534
+#: core/apis/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1290
+#: core/apis/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1312
+#: core/apis/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2059
+#: core/apis/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2059
+#: core/apis/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/apis/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/plugins_load.php:127
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/plugins_load.php:140
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:9
+msgid "Choose Animation"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:12
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:23
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:141
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:352
+msgid "No"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:13
+msgid "Yes"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:15
+msgid "Define action for choose event if needed."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:19
+msgid "CSS Animation"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:24
+msgid "bounce"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:25
+msgid "rubberBand"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:26
+msgid "flash"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:27
+msgid "pulse"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:28
+msgid "shake"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:29
+msgid "swing"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:30
+msgid "tada"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:31
+msgid "wobble"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:33
+msgid "bounceIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:34
+msgid "bounceInDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:35
+msgid "bounceInLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:36
+msgid "bounceInRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:37
+msgid "bounceInUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:38
+msgid "bounceOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:39
+msgid "bounceOutDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:40
+msgid "bounceOutLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:41
+msgid "bounceOutRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:42
+msgid "bounceOutUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:43
+msgid "fadeIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:44
+msgid "fadeInDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:45
+msgid "fadeInDownBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:46
+msgid "fadeInLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:47
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:48
+msgid "fadeInRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:49
+msgid "fadeInRightBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:50
+msgid "fadeInUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:51
+msgid "fadeInUpBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:52
+msgid "fadeOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:53
+msgid "fadeOutDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:54
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:55
+msgid "fadeOutLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:56
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:57
+msgid "fadeOutRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:58
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:59
+msgid "fadeOutUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:60
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:61
+msgid "flip"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:62
+msgid "flipInX"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:63
+msgid "flipInY"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:64
+msgid "flipOutX"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:65
+msgid "flipOutY"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:66
+msgid "lightSpeedIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:67
+msgid "lightSpeedOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:68
+msgid "rotateIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:69
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:70
+msgid "rotateInDownRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:71
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:72
+msgid "rotateInUpRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:73
+msgid "rotateOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:74
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:75
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:76
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:77
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:78
+msgid "hinge"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:79
+msgid "rollIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:80
+msgid "rollOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:82
+msgid "zoomIn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:83
+msgid "zoomInDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:84
+msgid "zoomInLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:85
+msgid "zoomInRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:86
+msgid "zoomInUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:87
+msgid "zoomOut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:88
+msgid "zoomOutDown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:89
+msgid "zoomOutLeft"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:90
+msgid "zoomOutRight"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:91
+msgid "zoomOutUp"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:92
+msgid "Appear from center"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:94
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:337
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:365
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:106
+msgid "Data Wow Delay"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:109
+msgid "Data Wow Delay eg:0.2s,0.3s ..."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:119
+msgid "Data Wow Duration"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:122
+msgid "Data Wow Duration eg:0.2s,0.3s ..."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:130
+msgid "Css"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:132
+msgid "Design options"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:137
+msgid "font awesome icon class"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:142
+msgid "fa-music"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:143
+msgid "fa-tint"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:144
+msgid "fa-magic"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:145
+msgid "fa-cubes"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:146
+msgid "fa-camera-retro"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:147
+msgid "fa-phone"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:148
+msgid "fa-map-marker"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:149
+msgid "fa-envelope"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:150
+msgid "fa-coffee"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:151
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:320
+msgid "fa-thumbs-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:152
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:329
+msgid "fa-user"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:153
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:322
+msgid "fa-truck"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:154
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:258
+msgid "fa-lock"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:155
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:263
+msgid "fa-money"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:156
+msgid "fa-adjust"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:157
+msgid "fa-align-center"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:158
+msgid "fa-align-justify"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:159
+msgid "fa-align-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:160
+msgid "fa-align-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:161
+msgid "fa-ambulance"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:162
+msgid "fa-angle-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:163
+msgid "fa-angle-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:164
+msgid "fa-angle-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:165
+msgid "fa-angle-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:166
+msgid "fa-arrow-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:167
+msgid "fa-arrow-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:168
+msgid "fa-arrow-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:169
+msgid "fa-arrow-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:170
+msgid "fa-apple"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:171
+msgid "fa-asterisk"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:172
+msgid "fa-backward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:173
+msgid "fa-barcode"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:174
+msgid "fa-beer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:175
+msgid "fa-bell"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:176
+msgid "fa-bug"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:177
+msgid "fa-bold"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:178
+msgid "fa-bolt"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:179
+msgid "fa-bar-chart"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:180
+msgid "fa-book"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:181
+msgid "fa-bookmark"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:182
+msgid "fa-briefcase"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:183
+msgid "fa-building"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:184
+msgid "fa-bullhorn"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:185
+msgid "fa-calendar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:186
+msgid "fa-camera"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:187
+msgid "fa-caret-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:188
+msgid "fa-caret-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:189
+msgid "fa-caret-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:190
+msgid "fa-caret-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:191
+msgid "fa-certificate"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:192
+msgid "fa-check"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:193
+msgid "fa-chevron-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:194
+msgid "fa-chevron-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:195
+msgid "fa-chevron-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:196
+msgid "fa-chevron-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:197
+msgid "fa-circle"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:198
+msgid "fa-codepen"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:199
+msgid "fa-file-text-o"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:200
+msgid "fa-cloud"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:201
+msgid "fa-cloud-download"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:202
+msgid "fa-cloud-upload"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:203
+msgid "fa-code"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:204
+msgid "fa-cog"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:205
+msgid "fa-cogs"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:206
+msgid "fa-columns"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:207
+msgid "fa-comment"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:208
+msgid "fa-comments"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:209
+msgid "fa-copy"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:210
+msgid "fa-credit-card"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:211
+msgid "fa-crop"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:212
+msgid "fa-cut"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:213
+msgid "fa-dashboard"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:214
+msgid "fa-database"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:215
+msgid "fa-desktop"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:216
+msgid "fa-download"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:217
+msgid "fa-edit"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:218
+msgid "fa-eject"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:219
+msgid "fa-exchange"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:220
+msgid "fa-external-link"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:221
+msgid "fa-facebook"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:222
+msgid "fa-fast-backward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:223
+msgid "fa-fast-forward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:224
+msgid "fa-fighter-jet"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:225
+msgid "fa-file"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:226
+msgid "fa-film"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:227
+msgid "fa-filter"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:228
+msgid "fa-fire"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:229
+msgid "fa-flag"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:230
+msgid "fa-folder-open"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:231
+msgid "fa-font"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:232
+msgid "fa-forward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:233
+msgid "fa-fullscreen"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:234
+msgid "fa-gift"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:235
+msgid "fa-github"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:236
+msgid "fa-github-alt"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:237
+msgid "fa-glass"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:238
+msgid "fa-globe"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:239
+msgid "fa-google-plus"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:240
+msgid "fa-group"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:241
+msgid "fa-headphones"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:242
+msgid "fa-heart"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:243
+msgid "fa-home"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:244
+msgid "fa-hospital"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:245
+msgid "fa-html5"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:246
+msgid "fa-inbox"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:247
+msgid "fa-italic"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:248
+msgid "fa-key"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:249
+msgid "fa-laptop"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:250
+msgid "fa-leaf"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:251
+msgid "fa-legal"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:252
+msgid "fa-link"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:253
+msgid "fa-linkedin"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:254
+msgid "fa-list"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:255
+msgid "fa-list-alt"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:256
+msgid "fa-list-ol"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:257
+msgid "fa-list-ul"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:259
+msgid "fa-magnet"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:260
+msgid "fa-medkit"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:261
+msgid "fa-minus"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:262
+msgid "fa-mobile-phone"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:264
+msgid "fa-move"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:265
+msgid "fa-paste"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:266
+msgid "fa-plug"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:267
+msgid "fa-pause"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:268
+msgid "fa-pencil"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:269
+msgid "fa-picture-o"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:270
+msgid "fa-pinterest"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:271
+msgid "fa-plane"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:272
+msgid "fa-play"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:273
+msgid "fa-play-circle"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:274
+msgid "fa-plus"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:275
+msgid "fa-print"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:276
+msgid "fa-qrcode"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:277
+msgid "fa-quote-left"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:278
+msgid "fa-quote-right"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:279
+msgid "fa-random"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:280
+msgid "fa-refresh"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:281
+msgid "fa-reorder"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:282
+msgid "fa-repeat"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:283
+msgid "fa-reply"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:284
+msgid "fa-resize-full"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:285
+msgid "fa-resize-horizontal"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:286
+msgid "fa-resize-small"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:287
+msgid "fa-resize-vertical"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:288
+msgid "fa-retweet"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:289
+msgid "fa-road"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:290
+msgid "fa-rss"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:291
+msgid "fa-save"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:292
+msgid "fa-search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:293
+msgid "fa-share"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:294
+msgid "fa-shopping-cart"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:295
+msgid "fa-signal"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:296
+msgid "fa-sitemap"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:297
+msgid "fa-sort"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:298
+msgid "fa-sort-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:299
+msgid "fa-sort-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:300
+msgid "fa-spinner"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:301
+msgid "fa-star"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:302
+msgid "fa-star-half"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:303
+msgid "fa-step-backward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:304
+msgid "fa-step-forward"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:305
+msgid "fa-stethoscope"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:306
+msgid "fa-stop"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:307
+msgid "fa-strikethrough"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:308
+msgid "fa-suitcase"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:309
+msgid "fa-table"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:310
+msgid "fa-tablet"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:311
+msgid "fa-tag"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:312
+msgid "fa-tags"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:313
+msgid "fa-tasks"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:314
+msgid "fa-text-height"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:315
+msgid "fa-text-width"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:316
+msgid "fa-th"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:317
+msgid "fa-th-large"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:318
+msgid "fa-th-list"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:319
+msgid "fa-thumbs-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:321
+msgid "fa-trophy"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:323
+msgid "fa-twitter"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:324
+msgid "fa-umbrella"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:325
+msgid "fa-underline"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:326
+msgid "fa-undo"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:327
+msgid "fa-unlock"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:328
+msgid "fa-upload"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:330
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:331
+msgid "fa-user-md"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:332
+msgid "fa-volume-down"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:333
+msgid "fa-volume-off"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:334
+msgid "fa-volume-up"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:335
+msgid "fa-wrench"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:348
+msgid "font Basic icon class"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:353
+msgid "icon-basic-joypad"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:354
+msgid "icon-basic-keyboard"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:355
+msgid "icon-basic-laptop"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:356
+msgid "icon-basic-accelerator"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:357
+msgid "icon-basic-alarm"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:358
+msgid "icon-basic-anchor"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:359
+msgid "icon-basic-anticlockwise"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:360
+msgid "icon-basic-archive"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:361
+msgid "icon-basic-archive-full"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:362
+msgid "icon-basic-ban"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:374
+msgid "In container"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:377
+msgid "No container"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:378
+msgid "Inside container div"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:380
+msgid "With container class."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:387
+msgid "Background overlay"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:395
+msgid "Custom section id"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:404
+msgid "Responsiveness"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:406
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:407
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:415
+msgid "Choose style tab"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:418
+msgid "Style 1"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:419
+msgid "Style 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:430
+msgid "Section/ block title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:433
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:495
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:544
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:603
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:766
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:857
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:923
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:997
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1038
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1102
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1166
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1218
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1247
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1302
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1339
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1358
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1386
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1468
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1506
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1544
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1667
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1736
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1773
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1813
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1935
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1977
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2058
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2129
+msgid "ALASKA Blocks"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:442
+msgid "Enter section title "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:446
+msgid "Align title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:449
+msgid "Center"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:453
+msgid "Choose Postion Title/Section"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:459
+msgid "Title color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:462
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:968
+msgid "Choose color for title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:468
+msgid "Description color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:471
+msgid "Choose color for Description"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:477
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:510
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:560
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:819
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:983
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1152
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1289
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1326
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1419
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1492
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1649
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1751
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1797
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1918
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2113
+msgid "Content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:480
+msgid "Subtitle content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:492
+msgid "Call to action"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:504
+msgid "Enter Call to action title "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:512
+msgid "Blazing performance, supreme flexibility & superior UK based support."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:513
+msgid "Call to action  content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:519
+msgid "Text Action"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:522
+msgid "Enter Call to action text "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:528
+msgid "Link Action"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:531
+msgid "Enter Call to action link "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:541
+msgid "ALASKA service icon "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:554
+msgid "Enter service title "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:562
+msgid ""
+"Compellingly transform plug-and-play expertise whereas efficient platforms. "
+"Authoritatively communicate quality sources vis-a-vis standards compliant "
+"partnerships."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:563
+msgid "Service content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:567
+msgid "Show readmore"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:570
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:655
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:690
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:726
+msgid "Show"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:571
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:656
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:691
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:727
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2066
+msgid "Hide"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:573
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2068
+msgid "Choose show/hide readmore."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:579
+msgid "Text service url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:582
+msgid "Enter Service readmore text "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:588
+msgid "Link service url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:591
+msgid "Enter readmore link "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:600
+msgid "Alaska Search Domain"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:609
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1003
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1345
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1742
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1779
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1819
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1941
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1983
+msgid "Class name"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:612
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1006
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1348
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1745
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1782
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1822
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1944
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1986
+msgid "Add class name for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:618
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:621
+msgid "Search Domain - Text Placehoder "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:620
+msgid "Enter your Domain Name here..."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:627
+msgid "Select Option Search "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:630
+msgid "Select Option Search eg:.com,.co,.net,.org "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:636
+msgid "Text button Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:638
+msgid "Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:639
+msgid " Text button Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:645
+msgid "Link Action Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:647
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:678
+msgid "http://ainex.themestudio.net/whmcs-bridge/?ccce=domainchecker"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:648
+msgid "Link actice button search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:652
+msgid "Show price list"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:658
+msgid "Choose show/hide price list."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:664
+msgid "Title price list"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:666
+msgid "View Domain Price List"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:676
+msgid "Link price list"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:687
+msgid "Show bulk search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:693
+msgid "Choose show/hide Bulk Search."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:699
+msgid "Title Bulk search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:701
+msgid "Bulk Domain Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:711
+msgid "Link Bulk Search"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:713
+msgid ""
+"http://ainex.themestudio.net/whmcs-bridge/?ccce=domainchecker&amp;"
+"search=bulkregister"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:723
+msgid "Show Transfer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:729
+msgid "Choose show/hide Transfer."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:735
+msgid "Title Transfer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:737
+msgid "Transfer Domain"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:747
+msgid "Link Transfer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:749
+msgid ""
+"http://ainex.themestudio.net/whmcs-bridge/?ccce=domainchecker&amp;"
+"search=bulktransfer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:763
+msgid "Pricing Table"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:770
+msgid "Pricing table style "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:773
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1109
+msgid "Layout style 1"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:774
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1110
+msgid "Layout style 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:776
+msgid "Choose Pricing table layout needed."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:780
+msgid "Choose Active"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:783
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1052
+msgid "No Active"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:786
+msgid "Choose active pricing needed."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:792
+msgid "Pricing Title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:794
+msgid "Economy"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:795
+msgid "Add Pricing Title for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:801
+msgid "Pricing Price"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:803
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1375
+msgid "$3.99"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:804
+msgid "Add Pricing Price for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:810
+msgid "Pricing Price unit"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:812
+msgid "pm"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:813
+msgid "Add Pricing Price unit for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:821
+msgid ""
+"<ul>\n"
+"\t\t\t\t\t\t\t\t<li>500 GB Disk Space</li>\n"
+"\t\t\t\t\t\t\t\t<li>100 Databases List</li>\n"
+"\t\t\t\t\t\t\t\t<li>Free Domain Registration</li>\n"
+"\t\t\t\t\t\t\t\t<li>1 Hosting Space</li>\n"
+"\t\t\t\t\t\t\t\t<li>FREE Ad Coupons</li>\n"
+"\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:828
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:986
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1155
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1292
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1329
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1422
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1495
+msgid "Add content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:834
+msgid "Pricing Link Button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:836
+#: core/theme_options.php:461
+msgid "#"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:837
+msgid "Add Pricing Link Button for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:843
+msgid "Pricing Text Button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:845
+msgid "GET STARTED"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:846
+msgid "Add Pricing Text Button for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:854
+msgid "ALASKA Funfact"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:864
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1120
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1267
+msgid "Choose color icon"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:867
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1123
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1270
+msgid "Choose color for icon"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:873
+msgid "Choose color border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:876
+msgid "Choose color for border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:882
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:974
+msgid "Choose color Text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:885
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:977
+msgid "Choose color for Text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:891
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:929
+msgid "Number Funfact"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:893
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:931
+msgid "7854"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:894
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:932
+msgid "Add number funfact on for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:900
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:938
+msgid "Unit funfact"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:903
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:941
+msgid "Add Unit funfact for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:909
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:956
+msgid "Name Funfact"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:911
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:958
+msgid "Data Transferred"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:912
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:959
+msgid "Add Name Funfacr for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:920
+msgid "ALASKA Funfact style 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:947
+msgid "Choose color Number"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:950
+msgid "Choose color for number"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:965
+msgid "Choose color title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:985
+msgid ""
+"Compellingly transform plug-and-play expertise whereas.Authoritatively "
+"communicate quality sources vis-a-vis standards compliant."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:994
+msgid "Testimonial"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1012
+msgid "Post Number"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1014
+msgid "3"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1015
+msgid "Number post display in testimonial"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1021
+msgid "Layout style"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1026
+msgid "Layout Display testimonial"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1034
+msgid "ALASKA Accordion"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1042
+msgid "Widget title"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1044
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1048
+msgid "Active section"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1051
+msgid "Active fisrt tab"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1054
+msgid ""
+"Enter section number to be active on load or enter false to collapse all "
+"sections."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1058
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1205
+msgid "Extra class name"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1060
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1207
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1068
+msgid "Add section"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1072
+msgid "Section 1"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1073
+msgid "Section 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1078
+msgid "Section"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1088
+msgid "Accordion section title."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1099
+msgid "ALASKA Feature"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1106
+msgid "Layout Feature"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1111
+msgid "Layout style 3"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1113
+msgid "Choose Layout Feature item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1131
+msgid "Postion Feature item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1137
+msgid "Choose Postion Feature item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1143
+msgid "Title Feature item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1146
+msgid "Add Feature item for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1154
+msgid ""
+"<p>Globally evolve e-business niches with best-of-breed technology. "
+"Monotonectally iterate backend infomediaries for excellent manufactured "
+"products. Dramatically disseminate</p>"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1163
+msgid "Client worked"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1170
+msgid "Images"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1173
+msgid "Select images from media library."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1177
+msgid "Image size"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1180
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full ,client-work . "
+"Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1184
+msgid "On click"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1187
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1188
+msgid "Do nothing"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1189
+msgid "Open custom link"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1191
+msgid "What to do when slide is clicked?"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1195
+msgid "Custom links"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1197
+msgid ""
+"Enter links for each slide here. Divide links with linebreaks (Enter) . "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1215
+msgid "Lasted Blog"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1222
+msgid "Number post display"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1225
+msgid "3 post diplay"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1226
+msgid "2 post diplay"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1227
+msgid "4 post diplay"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1230
+msgid "Choose number posts display."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1234
+msgid "Class min-height"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1237
+msgid "Class min-height for box"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1244
+msgid "ALASKA service simple/tab"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1251
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1671
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1948
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1990
+msgid "Layout display"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1254
+msgid "Layout style simple"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1255
+msgid "Layout style simple 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1256
+msgid "Layout style simple 3"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1257
+msgid "Layout style simple 4"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1258
+msgid "Layout style tab"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1260
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1677
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1954
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1997
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2034
+msgid "Choose Layout display."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1280
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1317
+msgid "Title service item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1283
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1320
+msgid "Add title service item for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1291
+msgid ""
+"Compellingly transform plug-and-play expertise whereas efficient platforms. "
+"Authoritatively communicate "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1299
+msgid "ALASKA service image"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1308
+msgid "Image service"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1311
+msgid "Upload image service"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1328
+msgid ""
+"Rapidiously architect performance based platforms before performance based "
+"customer service. Assertively seize ubiquitous functionalities via emerging "
+"manufactured products.Rapidiously architect performance based platforms "
+"before performance based customer service. Assertively seize ubiquitous "
+"functionalities via emerging manufactured products."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1336
+msgid "ALASKA Twitter"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1355
+msgid "Domain box price"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1364
+msgid "Name Domain"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1366
+msgid ".net"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1367
+msgid "Add domain name for element. eg : .net,.org,.co,.com...."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1373
+msgid "Price Domain"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1376
+msgid "Add price domain for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1383
+msgid "Special offer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1392
+msgid "Image special"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1395
+msgid "Upload image special"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1401
+msgid "Title special item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1404
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1413
+msgid "Add title special item for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1410
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1455
+msgid "Description special item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1428
+msgid "Price special item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1431
+#, php-format
+msgid "Add price special item for element. $4.99 per month, 30% discount"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1437
+msgid "Unit special item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1440
+msgid "Add unit special item for element. Eg : per month, discount"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1446
+msgid "Link special item"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1449
+msgid "Add url special item for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1458
+msgid "Add text for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1465
+msgid "Pricing hosting"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1474
+msgid "Heading Pricing"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1477
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1486
+msgid "Add Heading Pricing for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1483
+msgid "Title Pricing"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1494
+msgid "Xeon E3-1240 v34|Cores x 3.4 GHz|8GBDDR3|1TB|100TB|$99|mo|GET STARTED|#"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1503
+msgid "Text dropcap"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1512
+msgid "First Text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1515
+msgid "First text dropcap"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1521
+msgid "Content Text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1524
+msgid "Add content text drop cap"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1530
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1533
+msgid "Background color first text dropcap"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1541
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2126
+msgid "Team Member"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1550
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2135
+msgid "Member's avatar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1553
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2138
+msgid "Upload member's avatar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1559
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2144
+msgid "Member's name"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1568
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2153
+msgid "Member's postion"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1577
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2192
+msgid "Member's twitter url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1586
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2209
+msgid "Member's behance url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1595
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2218
+msgid "Member's dribble url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1604
+msgid "Member's facebook url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1613
+msgid "Member's youtube url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1622
+msgid "Member's google url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1631
+msgid "Member's tumblr url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1640
+msgid "Member's vine url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1652
+msgid "Story member content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1662
+msgid "Skill Bar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1674
+msgid "Skillbar style 1"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1675
+msgid "Skillbar style 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1683
+msgid "Graphic values"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1686
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|"
+"Development."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1696
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1702
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1882
+msgid "Skill bar background color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1705
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1885
+msgid "Choose color for skill bar background"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1711
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1891
+msgid "Percent bar background color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1714
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1894
+msgid "Choose color for percent bar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1720
+msgid "Skill bar text color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1723
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1912
+msgid "Choose color for percent text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1733
+msgid "List Ul"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1760
+msgid "List ul content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1770
+msgid "Box border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1788
+msgid "Title "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1791
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1831
+msgid "Add title for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1800
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1921
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2116
+msgid "content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1810
+msgid "Process bar"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1828
+msgid "Title skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1830
+msgid "Energistically evolve"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1837
+msgid "Number skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1840
+msgid "Add number for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1846
+msgid "Unit skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1849
+msgid "Add unit for element. Eg:%"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1855
+msgid "Fontsize skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1858
+msgid "Add fontsize for element. Eg:%"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1864
+msgid "Dimension skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1867
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1876
+msgid "Add Dimension for element. Eg:255"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1873
+msgid "Width skill "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1900
+msgid "Skill title color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1903
+msgid "Choose color for Title bar "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1909
+msgid "Skill text color"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1932
+msgid "ALASKA countdown"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1951
+msgid "Countdown style 1"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1952
+msgid "Countdown style 2"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1960
+msgid "Datetime"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1963
+msgid "Add date for element.Eg:YYYY/MM/DD|h/i/s"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1974
+msgid "Style button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1993
+msgid "Large"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1994
+msgid "Normal"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:1995
+msgid "Small"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2003
+msgid "Text button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2005
+msgid "Button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2006
+msgid "Add button name for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2012
+msgid "background button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2015
+msgid "Choose color for button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2021
+msgid "Color text"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2024
+msgid "Choose color for text "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2028
+msgid "Choose border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2031
+msgid "No border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2032
+msgid "Border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2040
+msgid " Choose color border"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2047
+msgid "Choose color for border button"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2055
+msgid "Expand/Collapse Content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2062
+msgid "Show/hide readmore"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2065
+msgid "show"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2074
+msgid "Text showmore"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2081
+msgid "Add text showmore for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2087
+msgid "Text hide"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2094
+msgid "Add text hide for element"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2100
+msgid "Height content"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2107
+msgid "Add Height for content.Eg:80,100,120..."
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2146
+msgid "ROBERT SMITH"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2155
+msgid "Senior Designer"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2162
+msgid "Postion display"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2169
+msgid "Postion display member fontpage"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2175
+msgid "Biography"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2177
+msgid ""
+"Proactively expedite corporate data via premium materials. Assertively "
+"iterate extensible best practices before visionary functionalities. "
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2178
+msgid "Biography for member"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2184
+msgid "Member's Facebook url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/themestudio_vc_functions.php:2200
+msgid "Member's Google plus url"
+msgstr ""
+
+#: core/shortcodes/visual-composer/vc_templates/vc_tab.php:7
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: core/theme_functions.php:134
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: core/theme_functions.php:136 core/theme_functions.php:151
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/theme_options.php:171
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: core/theme_options.php:177 core/theme_options.php:180
+msgid "Current theme preview"
+msgstr ""
+
+#: core/theme_options.php:189
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: core/theme_options.php:191
+msgid "Tags"
+msgstr ""
+
+#: core/theme_options.php:196
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: core/theme_options.php:196
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: core/theme_options.php:224
+msgid "General Settings"
+msgstr ""
+
+#: core/theme_options.php:230
+msgid "Welcome to ALASKA Theme Option Panel"
+msgstr ""
+
+#: core/theme_options.php:232
+msgid "From here you can config ALASKA theme in the way you need."
+msgstr ""
+
+#: core/theme_options.php:238
+msgid "Logo upload"
+msgstr ""
+
+#: core/theme_options.php:240
+msgid "Upload your logo image"
+msgstr ""
+
+#: core/theme_options.php:241
+msgid "Upload your custom logo image"
+msgstr ""
+
+#: core/theme_options.php:248
+msgid "Upload favicon"
+msgstr ""
+
+#: core/theme_options.php:249
+msgid "Upload a 16px x 16px .png or .gif image that will be your favicon."
+msgstr ""
+
+#: core/theme_options.php:250
+msgid "Upload your custom favicon image"
+msgstr ""
+
+#: core/theme_options.php:257
+msgid "Accent Color"
+msgstr ""
+
+#: core/theme_options.php:258
+msgid "Change this color to alter the accent color globally for your website. "
+msgstr ""
+
+#: core/theme_options.php:259
+msgid "Accent color (default: )."
+msgstr ""
+
+#: core/theme_options.php:266
+msgid "Custom CSS"
+msgstr ""
+
+#: core/theme_options.php:267
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: core/theme_options.php:276
+msgid "Custom JS "
+msgstr ""
+
+#: core/theme_options.php:277
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: core/theme_options.php:286
+msgid "Google Analytics"
+msgstr ""
+
+#: core/theme_options.php:287
+msgid "Paste your google tracking code here."
+msgstr ""
+
+#: core/theme_options.php:296
+msgid "Enable Combine Css File"
+msgstr ""
+
+#: core/theme_options.php:297
+msgid "Combine Css File"
+msgstr ""
+
+#: core/theme_options.php:306
+msgid "Typography Options"
+msgstr ""
+
+#: core/theme_options.php:311
+msgid "Body Font Setting"
+msgstr ""
+
+#: core/theme_options.php:312
+msgid "Specify the body font properties."
+msgstr ""
+
+#: core/theme_options.php:323
+msgid "Menu Item Font Setting"
+msgstr ""
+
+#: core/theme_options.php:324
+msgid "Specify the menu font properties."
+msgstr ""
+
+#: core/theme_options.php:334
+msgid "Heading 1(H1) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:335
+msgid "Specify the H1 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:345
+msgid "Heading 2(H2) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:346
+msgid "Specify the H2 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:357
+msgid "Heading 3(H3) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:358
+msgid "Specify the H3 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:369
+msgid "Heading 4(H4) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:370
+msgid "Specify the H4 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:380
+msgid "Heading 5(H5) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:381
+msgid "Specify the H5 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:392
+msgid "Heading 6(H6) Font Setting"
+msgstr ""
+
+#: core/theme_options.php:393
+msgid "Specify the H6 tag font properties."
+msgstr ""
+
+#: core/theme_options.php:406
+msgid "Menu Style"
+msgstr ""
+
+#: core/theme_options.php:407
+msgid "Menu Style Settings"
+msgstr ""
+
+#: core/theme_options.php:413
+msgid "Menu hover effect"
+msgstr ""
+
+#: core/theme_options.php:427 core/theme_options.php:428
+msgid "Header Settings"
+msgstr ""
+
+#: core/theme_options.php:434
+msgid "Social list"
+msgstr ""
+
+#: core/theme_options.php:435
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: core/theme_options.php:436
+msgid "Font awesome icon class"
+msgstr ""
+
+#: core/theme_options.php:438
+msgid "This is a class icon font awesome."
+msgstr ""
+
+#: core/theme_options.php:439
+msgid "Description Here"
+msgstr ""
+
+#: core/theme_options.php:440
+msgid "Give us a link!"
+msgstr ""
+
+#: core/theme_options.php:444
+msgid "facebook"
+msgstr ""
+
+#: core/theme_options.php:445
+msgid "Facebook"
+msgstr ""
+
+#: core/theme_options.php:446
+msgid "http://facebook.com"
+msgstr ""
+
+#: core/theme_options.php:449
+msgid "twitter"
+msgstr ""
+
+#: core/theme_options.php:450
+msgid "Twitter"
+msgstr ""
+
+#: core/theme_options.php:451
+msgid "http://twitter.com"
+msgstr ""
+
+#: core/theme_options.php:454
+msgid "google-plus"
+msgstr ""
+
+#: core/theme_options.php:455
+msgid "Goole plus"
+msgstr ""
+
+#: core/theme_options.php:456
+msgid "http://plus.google.com"
+msgstr ""
+
+#: core/theme_options.php:459
+msgid "skype"
+msgstr ""
+
+#: core/theme_options.php:460
+msgid "Skype"
+msgstr ""
+
+#: core/theme_options.php:468 core/theme_options.php:469
+msgid "Top right content"
+msgstr ""
+
+#: core/theme_options.php:479
+msgid "Whmcs login url"
+msgstr ""
+
+#: core/theme_options.php:480
+msgid "Login url for whmcs"
+msgstr ""
+
+#: core/theme_options.php:486
+msgid "Whmcs logout url"
+msgstr ""
+
+#: core/theme_options.php:487
+msgid "Logout url for whmcs"
+msgstr ""
+
+#: core/theme_options.php:494 core/theme_options.php:495
+msgid "Blog Settings"
+msgstr ""
+
+#: core/theme_options.php:501
+msgid "Blog title"
+msgstr ""
+
+#: core/theme_options.php:502
+msgid "Title for blog page"
+msgstr ""
+
+#: core/theme_options.php:508
+msgid "Blog sub title"
+msgstr ""
+
+#: core/theme_options.php:509
+msgid "Sub title for blog page"
+msgstr ""
+
+#: core/theme_options.php:515
+msgid "Continue reading"
+msgstr ""
+
+#: core/theme_options.php:516
+msgid "Continue reading text"
+msgstr ""
+
+#: core/theme_options.php:522 core/theme_options.php:547
+msgid "Blog metas"
+msgstr ""
+
+#: core/theme_options.php:533
+msgid "Sidebar position"
+msgstr ""
+
+#: core/theme_options.php:534
+msgid "Select sidebar position."
+msgstr ""
+
+#: core/theme_options.php:535
+msgid "Select sidebar on left or right"
+msgstr ""
+
+#: core/theme_options.php:560
+msgid "Default Archive Header Background"
+msgstr ""
+
+#: core/theme_options.php:561
+msgid "Default Archive background with image, color, etc."
+msgstr ""
+
+#: core/theme_options.php:576 core/theme_options.php:577
+msgid "Mailchimp Settings"
+msgstr ""
+
+#: core/theme_options.php:584
+msgid "Subscribe Form Settings"
+msgstr ""
+
+#: core/theme_options.php:585
+msgid ""
+"Settings for the Subscribe Form (titled \"Email me when it's finished\" by "
+"default)."
+msgstr ""
+
+#: core/theme_options.php:590
+msgid "Enable Subscribe"
+msgstr ""
+
+#: core/theme_options.php:591
+msgid "Enable Subscribe on/off"
+msgstr ""
+
+#: core/theme_options.php:599
+msgid "MailChimp API Key"
+msgstr ""
+
+#: core/theme_options.php:600
+msgid ""
+"In order to use MailChimp you will need an API Key. You can generate API "
+"Keys by going to <a href=\"#\" target=\"_blank\">Account settings -> Extras -"
+"> API keys</a>"
+msgstr ""
+
+#: core/theme_options.php:607
+msgid "MailChimp List ID"
+msgstr ""
+
+#: core/theme_options.php:608
+msgid ""
+"Next you need to create a List in MailChimp and paste it is ID here. The "
+"List ID can be found in the List is Settings, on the right hand side."
+msgstr ""
+
+#: core/theme_options.php:616 core/theme_options.php:617
+msgid "Portfolio Settings"
+msgstr ""
+
+#: core/theme_options.php:623
+msgid "Portfolio archive title"
+msgstr ""
+
+#: core/theme_options.php:624
+msgid "Show title portfolio archive page"
+msgstr ""
+
+#: core/theme_options.php:630
+msgid "Portfolio archive sub title"
+msgstr ""
+
+#: core/theme_options.php:631
+msgid "Show sub title portfolio archive page"
+msgstr ""
+
+#: core/theme_options.php:637
+msgid "Portfolio AJAX/Redirect"
+msgstr ""
+
+#: core/theme_options.php:647
+msgid "Portfolio item width"
+msgstr ""
+
+#: core/theme_options.php:648
+msgid "This option set width for portfolio item"
+msgstr ""
+
+#: core/theme_options.php:649 core/theme_options.php:661
+msgid "Portfolio with. Min: 50, max: 1000, step: 1, default value: 100"
+msgstr ""
+
+#: core/theme_options.php:659
+msgid "Portfolio item height"
+msgstr ""
+
+#: core/theme_options.php:660
+msgid "This option set height for portfolio item"
+msgstr ""
+
+#: core/theme_options.php:671
+msgid "Show hide filter portfolio"
+msgstr ""
+
+#: core/theme_options.php:672
+msgid "Show/hide portfolio onload"
+msgstr ""
+
+#: core/theme_options.php:673 core/theme_options.php:702
+msgid "Select show hide style."
+msgstr ""
+
+#: core/theme_options.php:680 core/theme_options.php:681
+msgid "Portfolio number per page"
+msgstr ""
+
+#: core/theme_options.php:687
+msgid "Portfolio hover opacity"
+msgstr ""
+
+#: core/theme_options.php:688
+msgid "Portfolio hover opacity from 0 to 1"
+msgstr ""
+
+#: core/theme_options.php:689
+msgid "Min: 0, max: 1, step: 0.1, default value: 0.85"
+msgstr ""
+
+#: core/theme_options.php:700
+msgid "Show hide portfolio pagination"
+msgstr ""
+
+#: core/theme_options.php:701
+msgid "Show/hide portfolio pagination"
+msgstr ""
+
+#: core/theme_options.php:711 core/theme_options.php:712
+msgid "Footer Settings"
+msgstr ""
+
+#: core/theme_options.php:718 core/theme_options.php:719
+#: core/theme_options.php:720
+msgid "Before footer email"
+msgstr ""
+
+#: core/theme_options.php:726 core/theme_options.php:727
+#: core/theme_options.php:728
+msgid "Before footer phone"
+msgstr ""
+
+#: core/theme_options.php:734 core/theme_options.php:735
+#: core/theme_options.php:736
+msgid "Before footer live chat url"
+msgstr ""
+
+#: core/theme_options.php:743
+msgid "Footer widgets"
+msgstr ""
+
+#: core/theme_options.php:744
+msgid "Select footer number widget."
+msgstr ""
+
+#: core/theme_options.php:756
+msgid "Footer copyright text"
+msgstr ""
+
+#: core/theme_options.php:757
+msgid "Copyright text"
+msgstr ""
+
+#: core/theme_options.php:758
+msgid "<p>© 2014 Mega Host. All rights reserved.</p>"
+msgstr ""
+
+#: core/theme_options.php:763 core/theme_options.php:764
+msgid "Footer menu"
+msgstr ""
+
+#: core/theme_options.php:778
+msgid "Import/Export "
+msgstr ""
+
+#: core/theme_options.php:779
+msgid "Import/Export Settings"
+msgstr ""
+
+#: core/theme_options.php:798
+msgid "Theme Information 1"
+msgstr ""
+
+#: core/theme_options.php:799 core/theme_options.php:805
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: core/theme_options.php:804
+msgid "Theme Information 2"
+msgstr ""
+
+#: core/theme_options.php:809
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: core/theme_options.php:827 core/theme_options.php:828
+msgid "ALASKA Options"
+msgstr ""
+
+#: core/theme_register.php:14
+msgid "This is land of page sidebar"
+msgstr ""
+
+#: core/theme_register.php:31 core/theme_register.php:45
+#: core/theme_register.php:72 core/theme_register.php:113
+msgid "Footer widget 1"
+msgstr ""
+
+#: core/theme_register.php:33 core/theme_register.php:47
+#: core/theme_register.php:74 core/theme_register.php:87
+#: core/theme_register.php:100 core/theme_register.php:115
+#: core/theme_register.php:129 core/theme_register.php:142
+#: core/theme_register.php:155
+msgid "This is footer widget location"
+msgstr ""
+
+#: core/theme_register.php:58 core/theme_register.php:85
+#: core/theme_register.php:127
+msgid "Footer widget 2"
+msgstr ""
+
+#: core/theme_register.php:60
+msgid "This is footer widget Two"
+msgstr ""
+
+#: core/theme_register.php:98 core/theme_register.php:140
+msgid "Footer widget 3"
+msgstr ""
+
+#: core/theme_register.php:153
+msgid "Footer widget 4"
+msgstr ""
+
+#: core/theme_register.php:172
+msgid "Mega Menu"
+msgstr ""
+
+#: core/theme_support.php:153
+msgid "<i class=\"fa fa-mail-reply\"></i> Reply"
+msgstr ""
+
+#: core/theme_support.php:159
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/theme_support.php:182 core/theme_support.php:185
+msgid ", "
+msgstr ""
+
+#: core/theme_support.php:196
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: core/theme_support.php:202
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: core/theme_support.php:204
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: core/theme_support.php:206
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: core/widgets/ts_footer_contact.php:74 core/widgets/ts_subscribe.php:68
+msgid "Description:"
+msgstr ""
+
+#: footer.php:17
+msgid "Email us"
+msgstr ""
+
+#: footer.php:25
+msgid "Live chat with us"
+msgstr ""
+
+#: header.php:42
+msgid "CLIENT LOGIN"
+msgstr ""
+
+#: header.php:44
+msgid "CLIENT LOGOUT"
+msgstr ""
+
+#: loop/content-none.php:1
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: loop/loop-blog-list-item.php:30 single.php:56
+msgid "Pages:"
+msgstr ""
+
+#: search.php:16
+msgid "Your Search For:"
+msgstr ""

@@ -1,0 +1,161 @@
+    /* Please update alaska-core when you update the theme */
+You can upgrade Alaska Core by performing following steps:
+
+	1. Please make sure main theme is activated while performing other steps
+
+	2. Go to Plugins page in your WordPress Dashboard, locate Alaska Core in the list, deactivate it and delete it
+
+	3. You will see message that required plugin is missing at the top of your WordPress Dashboard
+
+	4. Install the plugin and then activate it.
+==========================================
+03.01.2018 - Ver 4.0.0
+    - Compatibility WooComemerce plugin latest version.
+    - Compatibility Visual Composer plugin latest version.
+    - Compatibility Slider Revolution plugin latest version.
+    - New: Add gallery slide for Single Product.
+    - Compatibility WordPress 4.9.1    
+    - Fixed : Small bug :css, code.
+13.12.2016 - ver 3.2.0
+	- Tested WordPress 4.7 compatibility
+	- Updated Visual Composer 5.0 (http://support.themestudio.net/knowledge-base/how-can-i-get-visual-composer-license/)
+	- Updated Slider Revolution 5.3 (http://support.themestudio.net/knowledge-base/how-can-i-update-slider-revolution/)
+	- Extra bundled Alaska Pro beta version.
+05.11.2016 - ver 3.1.6
+	- Added top link option menu: http://prnt.sc/d3c3s4
+	- Tested WHMCS 7 compatibility
+	- Fixed minor bugs
+20.08.2016 - ver 3.1.5
+	- Added more icons to Follow us widget: Linkedin, Instagram, Pinterest, Skype, Flickr, Soundcloud, Reddit, Whatsapp, Xing, Snapchat, Slideshare, Github.
+	- Checked WordPress 4.6 compatibility
+28.07.2016 - ver 3.1.4
+	- Fixed bug alaska-core
+	- Fixed minor styles.
+	- Updated woocomerce 2.6.4
+	- Updated fontawesome
+12.07.2016 - ver 3.1.3
+	- Removed H3 tag to optimize SEO performance.
+04.07.2016 - ver 3.1.2
+	- Fixed page banner not show
+	- Tweaked styling WHMCS default template
+	- Fixed ajax not working when using childtheme
+21.06.2016 - ver 3.1.1
+	- Updated WooCommerce
+	- Updated theme version
+07.06.2016 - ver 3.0.2
+	- Added option Enable ajax custom css & accent color
+	to optimize loading time.
+	- Added option Enable/disable scroll to top
+	- Fixed css : menu hover
+07.06.2016 - ver 3.0.1
+	-	Fixed menu hover
+	-	Fixed option Show/Hide page banner not working.
+06.06.2016	- ver 3.0
+	-	Merged themestudio-content & themestudio-shortcodes
+	-	Fixed "Shipping method" when check out.
+	- 	Added "Client area" when "Signed up/ Logined in"
+	-	Added Linkedin & Instagram social option.
+	-	Updated WHMCS 6.3.1
+	-	Updated Wordpress 4.5.2 Compatible
+	-	Updated Woocommerce 2.5.5
+	-	Updated Visual Composer 4.11.2.1
+	- 	Updated Revolution Slider 5.2.5.3
+	-	Improved import demo option
+	-	Improved Search Domain option
+	-	Optimized JS, CSS & removed junk files.
+	-	Added retina logo option (Logo SVG code).
+	-	Checked WPML Compatibility
+	-	Fixed megamenu can't import
+	-	Fixed responsive menu on mobile, ipad devices
+	-	Fix URL option contact info shortcode
+01.02.2016 - ver 2.0.2
+	Updated Slider Revolution Plugin 5.2.5
+27.04.2016 - ver 2.0.1
+	- Updated Slider Revolution Plugin
+25.04.2016 - ver 2.0.0
+	- Fixed: Menu style on mobile
+23.04.2016 - ver 1.7.1
+    - Updated: Visual Composer 4.11.2.1 
+29.03.2016 - ver 1.7
+    - Update css for whmcs template.
+    - Fixed row spaces.
+    - Improvement: Visual Composer 4.11.1 compatible.
+    - Update woocommerce plugin 2.5.1
+25.01.2016 - ver 1.6.2
+	- Fix minor css bug
+	- Improvement: Visual Composer 4.9.2 compatible.
+	- Update woocommerce plugin 2.5.1
+9.10.2015 - ver 1.6.1
+        - Update Version Visual Composer 4.7.4
+        - Added Child Theme
+05.08.2015 - ver 1.5
+        - Improvement: Visual Composer 4.6.1 compatible.
+        - Update Visual Composer plugin version 4.6.1.
+        - New : Template Alaskawhmcsv6 compatible with WHMCS version 6.0.1 .
+        - New : Shortcode Search Domain Dropdown.        
+        - Improvement: Select category for Testimonial shortcode.		
+09.07.2015 - ver 1.4.2
+        - prettyPhoto updated to 3.1.6 - latest stable and secure version
+27.06.2015 - ver 1.4.1
+        - Fix search results for all post types
+        - Modyfied core/theme_functions.php    
+        - Modyfied loop/loop-blog-list-item.php
+    	- Added loop/loop-search-list-item.php
+17.06.2015 - ver 1.4
+	    - Fix bug footer widger 3 column.    
+    	- Pagination for shortcode portfolio
+    	- Delete Css inline
+    	- Update woocommerce plugin 2.3.11.
+	    - Update Visual composer 4.5.3.
+    	- Update One click import demo in ThemeOption.
+13.05.2015 - ver 1.3.6
+	- Fix bug with ajax domain search whois.
+		+ Edit plugin ThemeStudio Shortcodes : (plugins/themestudio-shortcodes-v1.0/inc/whois/AjaxWhois.php)
+	- Fix css in tempalte alaskawhmcs,css parallax.
+	- Add autoplay for slide testimonial.
+	- Update Visual composer 4.5.2.
+    - Update plugin woocomerce 2.3.9
+13.05.2015 - ver 1.3.5
+	- Update font Awesome 4.3.0.
+	- Fix sercurity : Remove file errors.php from theme.
+	- Fix multi language for plugin ThemeStudio Shortcodes: 
+		+ fix multi language for shortcode lasted post.(plugins/themestudio-shortcodes-v1.0/inc/themestudio.shortcode.class.php)				
+
+08.05.2015 - ver 1.3.4
+	- Fix bug with ajax domain search.
+	- Remove exploit file from theme : file index.inc.php	
+
+06.05.2015 - ver 1.3.2	
+	- Update Visual Composer  4.5.1.
+	- Update class-tgm-plugin-activation 2.4.2
+	- Update bug for call to action top footer.
+26.04.2015 - ver 1.3.1
+	- Fix minor bugs
+	- Update all plugins to newest version
+	- Update Woocommece suppor newest version
+	- Update  Themes Security Vulnerability which is mentioned here http://marketblog.envato.com/news/wordpress-item-security-vulnerability/
+28.03.2015 - ver 1.3
+	- Fix bug install required plugin error.
+	- Fix minor css bug
+	- Make better document
+	- Support WhmPress
+	- Update alaska theme option to show/hide some elements
+	- Update alaska order form
+	- Update pricing table with cross/check feature
+	- Update show/hide top footer(email,phone,chat)
+	- Update newest version of all needed plugins
+	- Update woocommerce templates	
+03.02.2015 - ver 1.2 
+	- Fix problem with megamenu
+	- Remove unused javascript code
+	- Included PSDs
+	- Add new comparison table shortcode
+	- Fix minor responsive css bug	
+01.02.2015 - ver 1.1
+	- Add new header style with background support
+	- Add 3 new homepage 6,7,8
+	- Add 3 new pricing table
+	- Add feature icon using image 
+	- Add new list shortcode
+	- Add new feature box shortcode
+	- Fix minor css bug	

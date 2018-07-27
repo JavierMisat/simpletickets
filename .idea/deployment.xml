@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Simplecomunicaciones">
+    <serverData>
+      <paths name="ASEJUVIMPO.COM">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="App TV en vivo final">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Asejuvimpo">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="CiberPos">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Citafija Digital Ocean Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Laravel IA">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Simplecomunicaciones">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cache" />
+            <excludedPath path="/languages" />
+            <excludedPath path="/upgrade" />
+            <excludedPath path="/uploads" />
+            <excludedPath path="/wflogs" />
+            <excludedPath path="/themes/twentyseventeen" />
+            <excludedPath path="/plugins/akismet" />
+            <excludedPath path="/plugins/alaska-core" />
+            <excludedPath path="/plugins/better-search-replace" />
+            <excludedPath path="/plugins/cloudflare" />
+            <excludedPath path="/plugins/contact-form-7" />
+            <excludedPath path="/plugins/contact-form-7-hide-success-message" />
+            <excludedPath path="/plugins/download-manager" />
+            <excludedPath path="/plugins/duplicate-post" />
+            <excludedPath path="/plugins/duplicator" />
+            <excludedPath path="/plugins/easy-smooth-scroll-links" />
+            <excludedPath path="/plugins/flamingo" />
+            <excludedPath path="/plugins/invisible-recaptcha" />
+            <excludedPath path="/plugins/jquery-validation-for-contact-form-7" />
+            <excludedPath path="/plugins/js_composer" />
+            <excludedPath path="/plugins/litespeed-cache" />
+            <excludedPath path="/plugins/loco-translate" />
+            <excludedPath path="/plugins/revslider" />
+            <excludedPath path="/plugins/tawkto-live-chat" />
+            <excludedPath path="/plugins/tiny-compress-images" />
+            <excludedPath path="/plugins/ts-visual-composer-extend" />
+            <excludedPath path="/plugins/vc_clipboard" />
+            <excludedPath path="/plugins/wordpress-seo-premium" />
+            <excludedPath path="/plugins/wp-envato-market-master" />
+            <excludedPath path="/plugins/wp-optimize" />
+            <excludedPath path="/plugins/wp-retina-2x" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/languages" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upgrade" />
+            <excludedPath local="true" path="$PROJECT_DIR$/uploads" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wflogs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/themes/twentyseventeen" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/akismet" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/alaska-core" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/better-search-replace" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/cloudflare" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/contact-form-7" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/contact-form-7-hide-success-message" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/download-manager" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/duplicate-post" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/duplicator" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/easy-smooth-scroll-links" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/flamingo" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/invisible-recaptcha" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/jquery-validation-for-contact-form-7" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/js_composer" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/litespeed-cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/loco-translate" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/revslider" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/tawkto-live-chat" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/tiny-compress-images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/ts-visual-composer-extend" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/vc_clipboard" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/wordpress-seo-premium" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/wp-envato-market-master" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/wp-optimize" />
+            <excludedPath local="true" path="$PROJECT_DIR$/plugins/wp-retina-2x" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="SteelInnovamos">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SteelMigrar">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Super Datos Web">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SuperDatosWeb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="WiwaServer">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="instagram innovamos">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

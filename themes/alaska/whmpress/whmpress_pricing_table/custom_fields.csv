@@ -1,0 +1,6 @@
+font_icon,Font Icon,Enter font icon awesome .eg: fa-facebook... . <a target="__blank" href="http://fortawesome.github.io/Font-Awesome/icons/">click here.</a>.
+"class_active","Choose Active","Choose active pricing needed","dropdown","no-active,active"
+"custom_text_1","Text custom","text for custom field1","textfield"
+"user_description","Description Pricing","Description for pricing table style 3,4.","textarea"
+"custom_text_2","Custom Text 2","Add value for custom text 2","textfield"
+"custom_text_3","Custom Text 3","Add value for custom text 3","textfield"
